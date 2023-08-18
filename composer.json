@@ -1,0 +1,10 @@
+{
+"name": "some/name",
+"description": "Some description will be useful too!",
+    "require": {
+        "dompdf/dompdf": "^2.0"
+    },
+    "scripts": {
+        "test": "phpunit"
+    }
+}
